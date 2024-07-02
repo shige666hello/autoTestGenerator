@@ -1,0 +1,5 @@
+alibabacloud_tea_util<1.0.0,>=0.3.12
+alibabacloud_credentials<1.0.0,>=0.3.1
+alibabacloud_openapi_util<1.0.0,>=0.2.1
+alibabacloud_gateway_spi<1.0.0,>=0.0.1
+alibabacloud_tea_xml<1.0.0,>=0.0.2
